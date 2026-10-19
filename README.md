@@ -8,7 +8,7 @@ Tenho desenvolvido projetos acadêmicos e de portfólio envolvendo integração 
 
 Meu objetivo é conquistar uma oportunidade de **estágio na área de Dados**, aplicando meus conhecimentos em problemas práticos e evoluindo profissionalmente.
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 - **Linguagens:** Python, SQL e PL/SQL
 - **Análise de dados:** Pandas, NumPy e estatística
