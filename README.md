@@ -1,4 +1,4 @@
-# Olá! Eu sou Paulo Moraes 👋
+# Olá! Eu sou Paulo Moraes 
 
 ### Estudante de Ciência de Dados | SQL • Python • Power BI
 
@@ -17,33 +17,33 @@ Meu objetivo é conquistar uma oportunidade de **estágio na área de Dados**, a
 - **Ferramentas:** Git, GitHub, VS Code e Jupyter Notebook
 - **Conceitos:** ETL, modelagem de dados, MDM e qualidade de dados
 
-## 📂 Projetos em destaque
+## Projetos em destaque
 
-### 🗃️ Cidade Alfa — Master Data Management (MDM V2)
+### Cidade Alfa — Master Data Management (MDM V2)
 
 Projeto acadêmico de integração e padronização cadastral utilizando Oracle SQL e PL/SQL, com 12 regras de negócio e identificação de divergências.
 
 [Conhecer o projeto](https://github.com/PauloMoraes12/CIDADE-ALFA-MDM)
 
-### 🏙️ Cidade Inteligente — Segurança Pública
+### Cidade Inteligente — Segurança Pública
 
 Projeto de modelagem de dados aplicado a uma solução de segurança pública inteligente.
 
-### 📊 Análise Estatística de Vendas
+### Análise Estatística de Vendas
 
 Análise exploratória e estatística descritiva de dados de vendas utilizando Python e Pandas.
 
-### 📈 Associação entre Variáveis de Vendas
+### Associação entre Variáveis de Vendas
 
 Projeto de análise estatística para investigar relações e associações entre variáveis.
 
-## 🎓 Formação
+## Formação
 
 **FIAP — Ciência de Dados**
 
 Graduação em andamento.
 
-## 🎯 Objetivo profissional
+## Objetivo profissional
 
 Busco oportunidades de estágio em:
 
@@ -53,9 +53,9 @@ Busco oportunidades de estágio em:
 
 Tenho interesse especial em projetos envolvendo SQL, Python, dashboards, automação e integração de dados.
 
-## 📫 Contato
+## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/paulo-victor-moraes-lima-22a35a156/)
 - [GitHub](https://github.com/PauloMoraes12)
 
-📍 Imperatriz, Maranhão — Brasil
+Imperatriz, Maranhão — Brasil
